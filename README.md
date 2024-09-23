@@ -1,4 +1,4 @@
-# Hello Im Juan Pablo
+# Hello im Juan Pablo
 
 ## About me
 
