@@ -7,3 +7,8 @@ Hello! I'm a passionate Electronics Engineer with a strong foundation in Java an
 ## Contact me
 
 As I continue my journey in electronics engineering and data analysis, I'm always seeking opportunities to collaborate on innovative projects. Whether it's leveraging my programming skills in Java or applying data-driven solutions with advanced tools like Power BI and Google Looker Studio, I am eager to contribute and grow professionally. Let’s connect and explore how we can achieve impactful results together!
+
+
+## Skills
+
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
