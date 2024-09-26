@@ -23,5 +23,4 @@ As I continue my journey in electronics engineering and data analysis, I'm alway
 
 ## Languages
 
-I speak spanish an english
-Hablo español e inglés
+I speak spanish and english
